@@ -1,5 +1,5 @@
 :root{
---green:#16c784;
+--green:#145a32;
 --dark:#0e1525;
 --gray:#6b7280;
 }
@@ -7,18 +7,18 @@
 body{
   margin:0;
   font-family: Arial, sans-serif;
-  background: white;
-  color: #131313; /* white text for contrast */
+  background: linear-gradient(135deg, #000, #1a1a1a);
+  color: #e6e6e6; /* white text for contrast */
 }
 
 heade { 
-  background-color: #1e1e1e; 
-  color: white; /* accent yellow */ 
+  background-color: linear-gradient(135deg, #000, #1a1a1a); 
+  color: #e6e6e6; /* accent yellow */ 
 }
 
 .section1 { 
-  background-color: #222222; 
-  color: #dddddd; 
+  background-color: #; linear-gradient(135deg, #000, #1a1a1a)
+  color: #e6e6e6; 
   padding: 20px; 
   margin: 10px 0; 
 }
@@ -48,7 +48,7 @@ heade {
  font-weight: 700; /* Bolder text */
  line-height: 1.1; /* Adjust line height for better spacing between lines */
  margin-bottom: 20px;
- color: #000000; /* Black text for "List Your Coin on" */
+ color: #e6e6e6; /* Black text for "List Your Coin on" */
 }
 
 .title .highlight {
@@ -59,7 +59,7 @@ heade {
 
 .description {
  font-size: 16px; /* Standard paragraph text size */
- color: #666666; /* Grey text for description */
+ color: #e6e6e6; /* Grey text for description */
  line-height: 1.5;
  margin-bottom: 30px;
  padding: 0 20px; /* Add some horizontal padding for better readability */
@@ -85,17 +85,17 @@ heade {
 }
 
 .primary-button {
- background-color: #66e200; /* Orange background for the primary button */
+ background-color: linear-gradient(135deg, #000, #1a1a1a); /* Orange background for the primary button */
  color: white;
 }
 
 .primary-button:hover {
- background-color: #73ff00; /* Slightly darker orange on hover */
+ background-color: linear-gradient(135deg, #000, #1a1a1a); /* Slightly darker orange on hover */
 }
 
 .secondary-button {
  background-color: transparent;
- color: #666666; /* Grey text for the secondary button */
+ color: #e6e6e6; /* Grey text for the secondary button */
  border: 1px solid #cccccc; /* Light grey border */
 }
 
@@ -178,7 +178,7 @@ footer a{color:var(--green)}
 }
 
 .primary-btn {
-  background: #f0b90b;
+  background: linear-gradient(135deg, #000, #1a1a1a);
   border: none;
   padding: 12px 18px;
   border-radius: 8px;
